@@ -1,0 +1,8 @@
+Requirements:
+	. Ask for how many rounds the game will be
+	. Start Each round Player VS Computer
+	. Show the Results with each round
+	. if computer wins the round ring a bill, and screen red
+	. if player won the round show green screen
+	. after all rounds show game over the print game results,
+	  then ask user if s/he want to play again?
